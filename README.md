@@ -15,16 +15,3 @@
 3. 提交后，GitHub Pages 会自动发布
 4. 访问地址通常为：`https://heguizhang.github.io/`
 
-## 当前特性
-
-- 中文 / 英文切换
-- Google Scholar 入口
-- 代表论文原文链接
-- 论文作者身份备注（如第一作者、通讯作者）
-
-## 建议后续补充
-
-- 增加个人正式照片
-- 增加 ORCID、ResearchGate 链接
-- 增加完整论文列表与 PDF 链接
-- 增加教学、审稿与学生培养页面
